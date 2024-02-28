@@ -1,0 +1,34 @@
+@import 'base.scss';
+@import 'fonts.scss';
+
+//.nexxen-background {
+//  background-image: url('../images/Background_1.png');
+//  background-size: cover;
+//  background-position: center center;
+//  background-repeat: no-repeat;
+//  min-height: 100vh;
+//}
+//.button-with-image {
+//  display: flex;
+//  flex-direction: column;
+//  align-items: center;
+//  justify-content: flex-end;
+//}
+
+.bottom-image {
+  max-width: 100%;
+  height: auto;
+}
+//@media (min-width: 1024px) {
+//  body {
+//    display: flex;
+//    place-items: center;
+//  }
+//
+//  #app {
+//
+//    display: grid;
+//    grid-template-columns: 1fr 1fr;
+//    padding: 0 2rem;
+//  }
+//}

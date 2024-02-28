@@ -1,0 +1,13 @@
+@font-face {
+  font-family: Poppins-Semibold;
+  src: url(../fonts/Poppins-SemiBold.ttf);
+}
+@font-face {
+  font-family: Poppins-Light;
+  src: url(../fonts/Poppins-ExtraLight.ttf);
+}
+
+$primary_font_family: 'Poppins-Light', sans-serif;
+$secondary_font_family_bold: 'Poppins-Semibold';
+
+$primary_text_color:#15003b;

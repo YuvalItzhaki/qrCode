@@ -1,0 +1,10 @@
+ {
+  "compilerOptions": {
+    "target": "ESNext",
+    "lib": ["ESNext", "dom"],
+    "types": ["cypress", "node"],
+    "jsx": "preserve",
+    "moduleResolution": "Node"
+  },
+  "include": ["**/*.ts", "../src/**/*.vue", "../cypress.d.ts"]
+ }
